@@ -9,4 +9,4 @@ Built a  model using Support Vector Machine
 
 Trained a logistic regression model and determined the accuracy of the validation data (where C=0.01)
 
-Calculated the F1 score and Jaccard Similarity score for each model from above. Use the Hyperparameter that performed best on the validation data (2 marks)
+Calculated the F1 score and Jaccard Similarity score for each model from above. Use the Hyperparameter that performed best on the validation data
